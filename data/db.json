@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "_id": "user_seed_admin",
+      "username": "admin",
+      "email": "admin@university.edu",
+      "password": "$2a$10$T85yV0QpXbCskAorRsc1SuxWCOlK9SgP3g/N820i.D4fB9b8NisKG",
+      "department": "Administration",
+      "studentId": "ADMIN-001",
+      "isAdmin": true,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "user_seed_1",
+      "username": "samantha_jones",
+      "email": "samantha.j@university.edu",
+      "password": "$2a$10$T85yV0QpXbCskAorRsc1SuxWCOlK9SgP3g/N820i.D4fB9b8NisKG",
+      "department": "Computer Science",
+      "studentId": "CS-2024-884",
+      "createdAt": "2026-03-10T00:00:00.000Z"
+    },
+    {
+      "_id": "user_seed_2",
+      "username": "michael_chen",
+      "email": "m.chen@university.edu",
+      "password": "$2a$10$T85yV0QpXbCskAorRsc1SuxWCOlK9SgP3g/N820i.D4fB9b8NisKG",
+      "department": "Mechanical Engineering",
+      "studentId": "ME-2025-012",
+      "createdAt": "2026-04-15T00:00:00.000Z"
+    }
+  ],
+  "lostItems": [],
+  "foundItems": [],
+  "claimRequests": []
+}
